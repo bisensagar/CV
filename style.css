@@ -1,0 +1,46 @@
+/* styles.css */
+
+body {
+    font-family: 'Proxima Nova', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+header h1, header h2, header h3 {
+    margin: 5px 0;
+    color: #00ab44; /* Setting the color */
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+section {
+    padding: 20px;
+}
+
+section h2 {
+    border-bottom: 1px solid #ccc;
+    color: #00ab44; /* Setting the color */
+}
+
+article {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Adding color to list items */
+ul li {
+    color: #00ab44;
+}
